@@ -48,19 +48,19 @@ This project presents an AI-driven Intrusion Detection System (IDS) for smart ho
 
 ## Dashboard Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 ---
 
 ## Analytics Screenshots
 
-![Analytics](screenshots/analytics.png)
+![Analytics](screenshots/analytics.jpg)
 
 ---
 
 ## Whatsapp_alerts Screenshots
 
-![WhatsApp](screenshots/whatsapp_alerts.png)
+![WhatsApp](screenshots/whatsapp_alerts.jpg)
 
 ---
 ## Research Motivation
