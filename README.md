@@ -42,16 +42,27 @@ This project presents an AI-driven Intrusion Detection System (IDS) for smart ho
 
 ## System Architecture
 
-(Add architecture image here)
+![Architecture](screenshots/architecture.png)
 
 ---
 
 ## Dashboard Screenshots
 
-(Add dashboard screenshots here)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
+## Analytics Screenshots
+
+![Analytics](screenshots/analytics.png)
+
+---
+
+## Whatsapp_alerts Screenshots
+
+![WhatsApp](screenshots/whatsapp_alerts.png)
+
+---
 ## Research Motivation
 
 This project explores the application of Artificial Intelligence and anomaly-based intrusion detection techniques for securing smart home IoT environments.
